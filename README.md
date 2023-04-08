@@ -8,7 +8,7 @@ In this project, first we will Work on downloading a database and restoring it o
 
  ## 1 - Download the Adventure Works database from the following location and restore it in your server 
 
-- https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworkss
+- https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
  - File Name : AdventureWorks2012.bak
 
 AdventureWorks is a sample database shipped with SQL Server, and it can be downloaded 
